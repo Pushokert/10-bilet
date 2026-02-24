@@ -1,0 +1,9 @@
+C:\Users\stephan\Downloads\Semenyako (2)\processor-service\src\main\java\ru\rksp\processorservice\listener\RabbitMQListener.java
+C:\Users\stephan\Downloads\Semenyako (2)\processor-service\src\main\java\ru\rksp\processorservice\dto\EventDto.java
+C:\Users\stephan\Downloads\Semenyako (2)\processor-service\src\main\java\ru\rksp\processorservice\config\RabbitMQConfig.java
+C:\Users\stephan\Downloads\Semenyako (2)\processor-service\src\main\java\ru\rksp\processorservice\service\ClickHouseService.java
+C:\Users\stephan\Downloads\Semenyako (2)\processor-service\src\main\java\ru\rksp\processorservice\ProcessorServiceApplication.java
+C:\Users\stephan\Downloads\Semenyako (2)\processor-service\src\main\java\ru\rksp\processorservice\service\EventProcessorService.java
+C:\Users\stephan\Downloads\Semenyako (2)\processor-service\src\main\java\ru\rksp\processorservice\entity\RawPaymentEvent.java
+C:\Users\stephan\Downloads\Semenyako (2)\processor-service\src\main\java\ru\rksp\processorservice\repository\RawPaymentEventRepository.java
+C:\Users\stephan\Downloads\Semenyako (2)\processor-service\src\main\java\ru\rksp\processorservice\controller\EventController.java
